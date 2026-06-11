@@ -1,13 +1,5 @@
 Voici le lien Github de mon code de filtrage numérique de la tension induite de la machine à courant continu
 
-
-
-
-
-
-
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 
